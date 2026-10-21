@@ -1,0 +1,303 @@
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid black;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 97%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        tr:nth-child(odd) {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: gainsboro;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        #total {
+            margin-top: 20px;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+        input{
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 97%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        tr:nth-child(odd) {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: gainsboro;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        #total {
+            margin-top: 20px;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 97%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        tr:nth-child(odd) {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: gainsboro;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        #total {
+            margin-top: 20px;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 97%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        tr:nth-child(odd) {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: gainsboro;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        #total {
+            margin-top: 20px;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        table {
+            margin-top: 20px;
+            border-collapse: collapse;
+            width: 97%;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        tr:nth-child(odd) {
+            background-color: white;
+        }
+
+        tr:nth-child(even) {
+            background-color: gainsboro;
+        }
+
+        a {
+            margin-right: 8px;
+            text-decoration: none;
+            color: grey;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+* {
+            font-family: sans-serif;
+        }
+
+        img {
+            margin-top: 10px;
+            width: 200px;
+            height: 150px;
+        }
+
+        .container {
+            margin-top: 205px;
+        }
+
+
+a.logout-link {
+    color: red;
+}
+
+.page-pending-repair #status {
+    color: red;
+}
+
+.page-delivered #status {
+    color: green;
+}
+
+.page-pending-delivery #status {
+    color: orange;
+}
+
+.page-repaired #status {
+    color: lightseagreen;
+}
+
+.admin-link {
+    color: brown;
+    text-decoration: underline;
+}
