@@ -1,4 +1,4 @@
-# Sako Service Center (SSC) – Web System
+# Repair Service Center – Web System
 
 A PHP and MySQL web application for tracking machine repairs and deliveries at a service center. Staff log incoming machines, follow them through repair and delivery, and search the records.
 
@@ -25,13 +25,13 @@ A PHP and MySQL web application for tracking machine repairs and deliveries at a
 | `phpp/` | Server-side handlers and the database connection (`connect.php`) |
 | `assets/js/` | Form validation, loader and notifications |
 | `style.css` | Styling |
-| `ssc.sql` | Database schema and sample data |
+| `repair_service.sql` | Database schema and sample data |
 
 ## Setup
 
 1. Install a local stack with PHP, MySQL or MariaDB, for example XAMPP.
-2. Copy this folder into the web root, for example `htdocs/ssc`.
-3. Import `ssc.sql` into MySQL, for example through phpMyAdmin. This creates the `ssc` database with the `machines` and `users` tables.
+2. Copy this folder into the web root, for example `htdocs/repair_service`.
+3. Import `repair_service.sql` into MySQL, for example through phpMyAdmin. This creates the `repair_service` database with the `machines` and `users` tables.
 4. Check `phpp/connect.php` for the database host, user and password. The defaults are for a local setup: `127.0.0.1`, user `root`, empty password.
-5. Open `http://localhost/ssc/system_login.php` in a browser.
+5. Open `http://localhost/repair_service/system_login.php` in a browser.
 

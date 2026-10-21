@@ -11,7 +11,7 @@ if (!$row) exit("Employee not found");
 ?>
 <link rel="stylesheet" href="style.css">
 <br>
-<h1>(SSC) Admin Panel: Edit Employee</h1><br>
+<h1>Admin Panel: Edit Employee</h1><br>
 <form method="POST" action="phpp/edit_employee.php">
 <input type="hidden" name="id" value="<?= (int) $row['id'] ?>">
 <label for="name">Employee Name: </label>

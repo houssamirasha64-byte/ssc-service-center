@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Sako Service Center - Search Area</title>
+    <title>Repair Service Center - Search Area</title>
     <link rel="stylesheet" href="style.css">
 </head>
 

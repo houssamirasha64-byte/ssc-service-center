@@ -3,13 +3,13 @@
 <html>
 
 <head>
-    <title>Sako Service Center - Repaired Machines</title>
+    <title>Repair Service Center - Repaired Machines</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body class="page-repaired">
     <center>
-        <h1>Sako Service Center - Repaired Machines</h1>
+        <h1>Repair Service Center - Repaired Machines</h1>
         <div>
             <?php
             require_once "phpp/connect.php";

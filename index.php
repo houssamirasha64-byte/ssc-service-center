@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Sako Service Center - Pending Repair Machines</title>
+    <title>Repair Service Center - Pending Repair Machines</title>
     <link rel="stylesheet" href="style.css">
 </head>
 

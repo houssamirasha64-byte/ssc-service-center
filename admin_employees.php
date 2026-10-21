@@ -6,7 +6,7 @@ $result = $conn->query("SELECT * FROM users");
 ?>
 <link rel="stylesheet" href="style.css">
 <br>
-<h2>(SSC) Admin Panel: Employee Management</h2>
+<h2>Admin Panel: Employee Management</h2>
 <a style="color: chocolate; text-decoration: underline;" href="index.php">Back to System</a>
 <form method="POST" action="phpp/add_employee.php"><br>
 <label for="name">Employee Name: </label>
